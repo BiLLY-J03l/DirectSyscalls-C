@@ -1,0 +1,37 @@
+﻿  DirectSyscall_Injector.c
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(88,9): warning C4477: 'printf' : format string '%0.3lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'PDWORD'
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(88,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'PDWORD'
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(140,53): warning C4090: 'function': different 'const' qualifiers
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(143,10): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'SIZE_T'
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(143,10):
+      consider using '%llu' in the format string
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(143,10):
+      consider using '%Iu' in the format string
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(143,10):
+      consider using '%I64u' in the format string
+  
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(143,10): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'SIZE_T'
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(143,10):
+      consider using '%llu' in the format string
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(143,10):
+      consider using '%Iu' in the format string
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(143,10):
+      consider using '%I64u' in the format string
+  
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(146,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'SIZE_T'
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(146,9):
+      consider using '%llu' in the format string
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(146,9):
+      consider using '%Iu' in the format string
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(146,9):
+      consider using '%I64u' in the format string
+  
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(146,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'SIZE_T'
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(146,9):
+      consider using '%llu' in the format string
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(146,9):
+      consider using '%Iu' in the format string
+      D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\DirectSyscall_Injector.c(146,9):
+      consider using '%I64u' in the format string
+  
+  DirectSyscalls.vcxproj -> D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\DirectSyscalls\x64\Debug\DirectSyscalls.exe
